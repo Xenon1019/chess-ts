@@ -1,0 +1,21 @@
+{
+    "href": "https://commons.wikimedia.org/w/index.php?curid=",
+
+    "white": [
+        "king": "";
+        "queen": "";
+        "rook": "";
+        "bishop": "";
+        "knight": "";
+        "pawn": "";
+    ],
+
+    "black": [
+        "king": "";
+        "queen": "";
+        "rook": "";
+        "bishop": "";
+        "knight": "";
+        "pawn": "";
+    ]
+}

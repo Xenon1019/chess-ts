@@ -1,0 +1,22 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "A chess app",
+  "main": "index.js",
+  "scripts": {
+    "expTest": "npx nodemon server.js"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "xenon",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
